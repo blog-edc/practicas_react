@@ -1,7 +1,5 @@
 {
-  "version":"20110917",
-  "users":[
-    {
+  {
       "name":"username1",
       "id":"7000f",
       "email":"user1_email@website.com",
@@ -56,5 +54,4 @@
       "businessUnit":
           { "id": "150008", "name": "department4" }
     }
-  ]
 }

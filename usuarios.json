@@ -66,4 +66,18 @@
     "locked":false,
     "businessUnit":
         { "id": "150008", "name": "department1000" }
+  },
+{
+    "name":"username2000",
+    "id":"70025",
+    "email":"user2000_email@website.com",
+    "license":"Dev",
+    "admin":false,
+    "date":1310653543628,
+    "archived":false,
+    "invited":false,
+    "licensed":true,
+    "locked":false,
+    "businessUnit":
+        { "id": "150008", "name": "department2000" }
   }]

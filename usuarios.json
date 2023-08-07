@@ -43,7 +43,7 @@
     "name":"username4",
     "id":"70020",
     "email":"user4_email@website.com",
-    "license":"Viewer",
+    "license":"Contributor",
     "admin":false,
     "date":1310653543628,
     "archived":false,

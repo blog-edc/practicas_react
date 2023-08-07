@@ -1,4 +1,4 @@
-{
+[
   {
       "name":"username1",
       "id":"7000f",
@@ -54,4 +54,4 @@
       "businessUnit":
           { "id": "150008", "name": "department4" }
     }
-}
+]

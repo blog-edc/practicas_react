@@ -80,4 +80,18 @@
     "locked":false,
     "businessUnit":
         { "id": "150008", "name": "department2000" }
+  },
+    {
+    "name":"username3000",
+    "id":"70026",
+    "email":"user3000_email@website.com",
+    "license":"Economist",
+    "admin":false,
+    "date":1310653543628,
+    "archived":false,
+    "invited":false,
+    "licensed":true,
+    "locked":false,
+    "businessUnit":
+        { "id": "150008", "name": "department3000" }
   }]
